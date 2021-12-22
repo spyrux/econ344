@@ -1,0 +1,3 @@
+# econ344
+\
+In this project I will be analyzing earnings data from the big 5 technology companies, known as FAANG or Facebook, Amazon, Apple, Netflix, Google and seeing how they are distributed. Then I will be analyzing and seeing how their earnings performances relate to stock performance for Amazon specifically, since there is an abundance of data and they have not performed a stock split. Then I will try to use an autoregressive model to create predictions on a specific stock. This data will come from AlphaVantage API. As this API has limitations on free users we will be only focusing on these top tech companies.
